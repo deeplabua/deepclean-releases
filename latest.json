@@ -1,15 +1,15 @@
 {
-  "version": "0.5.4",
-  "notes": "### Added\n- **Trash**: checkboxes on every item and a select-all. Uncheck what you want to keep and the button becomes **Delete N items** — only the checked items are removed. With everything checked it's still **Empty Trash**.",
-  "pub_date": "2026-10-03T14:17:47Z",
+  "version": "0.5.5",
+  "notes": "### Fixed\n- **Update & restart** now actually reopens DeepClean after installing an update (it used to quit and stay closed).\n- **Check for Updates** is more reliable: a second update feed is used if GitHub's release download is briefly unavailable, and the reason is shown when a check fails.",
+  "pub_date": "2026-10-03T14:35:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjem9DOHVMZjNOd3pmUTFmU3ExN1VnZnlIZExRUHdxRVJhRDNQejVYMi9MQzc2SXp2Tkp1aExOTGRxcExFZ2llcGZmNSt0SE1OVElpNkk2OW5waGFZN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM3MDM1CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNApkR0pJYzR4a0NMb1I4Z0xQTk11ZENPRDJpNU1GRVhCNEZSMTFkZTBoeUU3T29YVkZyQkRlSnZEaWtwT0dqU1lDNVF5NDM3aHhNbWxRekYwM2VJU2RCUT09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.4/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemxqSFV0dDd0amlxS1IvdnlDcmk5TFpOUTFBL3hMeXNmMlhTdjdFRVNwZ05ZUlZzUGJKc2hyY1NpUkl3c1NSeWMzS1pzYndURWhOcFBrMnFidzQ1cEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM4MTIwCWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNQpmTUFEM2h3MTNCS2tWSDY3czBGNVdYV3BHUUZhNUNwdE1sUkk2dmh6cjBnWXpJWDVqMmRDdlJCZFlNSS93YVlyS0t0a0tLSHZrK1hiWm9hQ3I5RnFBQT09Cg==",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.5/DeepClean.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjem9DOHVMZjNOd3pmUTFmU3ExN1VnZnlIZExRUHdxRVJhRDNQejVYMi9MQzc2SXp2Tkp1aExOTGRxcExFZ2llcGZmNSt0SE1OVElpNkk2OW5waGFZN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM3MDM1CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNApkR0pJYzR4a0NMb1I4Z0xQTk11ZENPRDJpNU1GRVhCNEZSMTFkZTBoeUU3T29YVkZyQkRlSnZEaWtwT0dqU1lDNVF5NDM3aHhNbWxRekYwM2VJU2RCUT09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.4/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemxqSFV0dDd0amlxS1IvdnlDcmk5TFpOUTFBL3hMeXNmMlhTdjdFRVNwZ05ZUlZzUGJKc2hyY1NpUkl3c1NSeWMzS1pzYndURWhOcFBrMnFidzQ1cEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM4MTIwCWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNQpmTUFEM2h3MTNCS2tWSDY3czBGNVdYV3BHUUZhNUNwdE1sUkk2dmh6cjBnWXpJWDVqMmRDdlJCZFlNSS93YVlyS0t0a0tLSHZrK1hiWm9hQ3I5RnFBQT09Cg==",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.5/DeepClean.app.tar.gz"
     }
   }
 }
