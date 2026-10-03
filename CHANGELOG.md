@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.5.3] - 2026-10-03
+
+### Changed
+- **Trash** without Full Disk Access: the explanation now sits in the middle of the window, with a button that opens the Full Disk Access settings and the steps to turn it on.
+
 ## [0.5.2] - 2026-10-03
 
 ### Fixed
