@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.5.4] - 2026-10-03
+
+### Added
+- **Trash**: checkboxes on every item and a select-all. Uncheck what you want to keep and the button becomes **Delete N items** — only the checked items are removed. With everything checked it's still **Empty Trash**.
+
 ## [0.5.3] - 2026-10-03
 
 ### Changed
