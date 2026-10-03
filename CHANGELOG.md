@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.5.1] - 2026-10-03
+
+### Changed
+- **Trash** redesigned like the other modules: ring chart of what's in the Trash by type (apps, folders, videos, archives…), hold-to-confirm **Empty Trash**, and a list of the Trash contents with size. Click a ring segment to filter.
+- Emptying the Trash is now logged (Operations Log) and shows a Space Receipt with what was freed.
+
 ## [0.5.0] - 2026-10-03
 
 ### Added
