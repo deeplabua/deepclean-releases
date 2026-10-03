@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.5.6] - 2026-10-03
+
+### Fixed
+- **Empty Trash** no longer fails with "Finder got an error (-128)" or leaves hidden `._` files behind: whatever Finder can't remove, DeepClean deletes itself.
+
 ## [0.5.5] - 2026-10-03
 
 ### Fixed
