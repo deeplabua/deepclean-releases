@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.5.5] - 2026-10-03
+
+### Fixed
+- **Update & restart** now actually reopens DeepClean after installing an update (it used to quit and stay closed).
+- **Check for Updates** is more reliable: a second update feed is used if GitHub's release download is briefly unavailable, and the reason is shown when a check fails.
+
 ## [0.5.4] - 2026-10-03
 
 ### Added
