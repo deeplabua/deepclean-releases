@@ -1,15 +1,15 @@
 {
-  "version": "0.5.6",
-  "notes": "### Fixed\n- **Empty Trash** no longer fails with \"Finder got an error (-128)\" or leaves hidden `._` files behind: whatever Finder can't remove, DeepClean deletes itself.",
-  "pub_date": "2026-10-03T15:44:43Z",
+  "version": "0.5.7",
+  "notes": "### Changed\n- **New app icon** from the final DeepLab set.\n- **Menu bar icon** is now a monochrome glyph that matches the light or dark menu bar, like other macOS menu bar apps.",
+  "pub_date": "2026-10-24T16:39:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjem5qUmw1UDU5a01XMzF0Q0wvWE96WGUyVDREbVRwUnVLYk40RVVQaWVsNGdCVjNjdUY4V0ZvTU5laWlkdzBDNU9wYlZReGFkN1E4a1lyL3ViNHlvYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQyMjUzCWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNgpzeU0xaThhVUE4M25JNUR6NFFBSzZqL2ZnZUI5am90NndDaGhOV2VRc21jRjIrZlRXOE80NkxWenRSQ1BneTdyejdQL2pETmZBTFR2K3RNWHQ1REdCUT09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.6/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemhrc2U0dVFZc1JmN3NxVGlneVgyOTVnU2hlWTBGV0F0QTMvUE1qREUrREx6RlR1RW81MzVBNWdUeEtRa2NPd29TUUNOSk8xZ1VIM2R4U1ltbnpFMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5OTE0CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNwpvRld6ZkhjQUtzUGlXNDZlaWxBMWZPeGh3d0Mzc3FiVGVMc05iMGtRQ0N5RXYxMjFFYzhMUVZBaEx1Um8rcGhiVnE2VHQyN1dkZWpWUjBLTEVEQ3ZBdz09Cg==",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.7/DeepClean.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjem5qUmw1UDU5a01XMzF0Q0wvWE96WGUyVDREbVRwUnVLYk40RVVQaWVsNGdCVjNjdUY4V0ZvTU5laWlkdzBDNU9wYlZReGFkN1E4a1lyL3ViNHlvYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDQyMjUzCWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNgpzeU0xaThhVUE4M25JNUR6NFFBSzZqL2ZnZUI5am90NndDaGhOV2VRc21jRjIrZlRXOE80NkxWenRSQ1BneTdyejdQL2pETmZBTFR2K3RNWHQ1REdCUT09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.6/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemhrc2U0dVFZc1JmN3NxVGlneVgyOTVnU2hlWTBGV0F0QTMvUE1qREUrREx6RlR1RW81MzVBNWdUeEtRa2NPd29TUUNOSk8xZ1VIM2R4U1ltbnpFMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5OTE0CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNwpvRld6ZkhjQUtzUGlXNDZlaWxBMWZPeGh3d0Mzc3FiVGVMc05iMGtRQ0N5RXYxMjFFYzhMUVZBaEx1Um8rcGhiVnE2VHQyN1dkZWpWUjBLTEVEQ3ZBdz09Cg==",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.7/DeepClean.app.tar.gz"
     }
   }
 }
