@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.5.7] - 2026-10-24
+
+### Changed
+- **New app icon** from the final DeepLab set.
+- **Menu bar icon** is now a monochrome glyph that matches the light or dark menu bar, like other macOS menu bar apps.
+
 ## [0.5.6] - 2026-10-03
 
 ### Fixed
