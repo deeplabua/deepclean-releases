@@ -1,15 +1,15 @@
 {
-  "version": "0.5.7",
-  "notes": "### Changed\n- **New app icon** from the final DeepLab set.\n- **Menu bar icon** is now a monochrome glyph that matches the light or dark menu bar, like other macOS menu bar apps.",
-  "pub_date": "2026-10-24T16:39:21Z",
+  "version": "0.6.0",
+  "notes": "### Changed\n- **DeepClean is now a native Mac app.** Rebuilt in Swift: it opens instantly, takes a fraction of the memory and disk space, and looks at home on macOS. Full Disk Access, your project folders and Large Files scope carry over; appearance and language are set again in Settings.\n\n### Added\n- **Overview** is where cleaning starts: free space, what DeepClean can free, one **Scan Everything** button, a recommendation per module and your recent cleanups.\n- **System Status** shows how your Mac is doing right now: CPU, memory pressure and swap, free space as Finder counts it, battery health, the busiest processes, and a 30-day free-space chart.\n- **Leftovers** now finds what removed apps leave running in the background \u2014 launch agents, daemons, helpers, Open at Login items \u2014 and groups every leftover by the app it came from.\n- **Extensions** lists old drivers and plug-ins of removed apps; macOS's own drivers are never shown.\n- **Space Receipt** after every cleanup, and for any cleanup in your history: share it, save it as an image, or copy it.\n- **Settings**: Project Paths, Large Files scope and exclusions, and the cleanup log.\n- A guide to turning on Full Disk Access on first launch.\n\n### Fixed\n- Data of apps you still have \u2014 Setapp apps, apps installed outside Applications, command-line tools \u2014 and macOS's own folders are never offered as leftovers.",
+  "pub_date": "2026-10-25T16:42:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemhrc2U0dVFZc1JmN3NxVGlneVgyOTVnU2hlWTBGV0F0QTMvUE1qREUrREx6RlR1RW81MzVBNWdUeEtRa2NPd29TUUNOSk8xZ1VIM2R4U1ltbnpFMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5OTE0CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNwpvRld6ZkhjQUtzUGlXNDZlaWxBMWZPeGh3d0Mzc3FiVGVMc05iMGtRQ0N5RXYxMjFFYzhMUVZBaEx1Um8rcGhiVnE2VHQyN1dkZWpWUjBLTEVEQ3ZBdz09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.7/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjenNrV01rdVlQMlFpeE05UlFGbWJBNTRVbjhuOTdHQk5paEpScm5iSEVkN3pwWnZoVHJMWlJpV1BFZHdEYmpQSlFaSjVEYmpHWC83cytEK01GKzJJY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ2NTU3CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oKR051ekhPdFY0M3JSMXFsMUc2ZndnMGxsSWdmZzRPbFpjV2lITXQ0ejE1eDBXVkVxaVM4Mm4xbzJVZm5ST3NnRG9PcHJGbWZudlJTdWkzcEpLYTdPQVE9PQo=",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.6.0/DeepClean.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjemhrc2U0dVFZc1JmN3NxVGlneVgyOTVnU2hlWTBGV0F0QTMvUE1qREUrREx6RlR1RW81MzVBNWdUeEtRa2NPd29TUUNOSk8xZ1VIM2R4U1ltbnpFMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU5OTE0CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oJdmVyc2lvbjowLjUuNwpvRld6ZkhjQUtzUGlXNDZlaWxBMWZPeGh3d0Mzc3FiVGVMc05iMGtRQ0N5RXYxMjFFYzhMUVZBaEx1Um8rcGhiVnE2VHQyN1dkZWpWUjBLTEVEQ3ZBdz09Cg==",
-      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.5.7/DeepClean.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSlRRUkdFaURjenNrV01rdVlQMlFpeE05UlFGbWJBNTRVbjhuOTdHQk5paEpScm5iSEVkN3pwWnZoVHJMWlJpV1BFZHdEYmpQSlFaSjVEYmpHWC83cytEK01GKzJJY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ2NTU3CWZpbGU6RGVlcENsZWFuLmFwcC50YXIuZ3oKR051ekhPdFY0M3JSMXFsMUc2ZndnMGxsSWdmZzRPbFpjV2lITXQ0ejE1eDBXVkVxaVM4Mm4xbzJVZm5ST3NnRG9PcHJGbWZudlJTdWkzcEpLYTdPQVE9PQo=",
+      "url": "https://github.com/deeplabua/deepclean-releases/releases/download/v0.6.0/DeepClean.app.tar.gz"
     }
   }
 }
