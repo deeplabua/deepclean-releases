@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DeepClean</title>
+    <item>
+      <title>0.6.0</title>
+      <pubDate>Sun, 25 Oct 2026 16:42:35 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[### Changed
+- **DeepClean is now a native Mac app.** Rebuilt in Swift: it opens instantly, takes a fraction of the memory and disk space, and looks at home on macOS. Full Disk Access, your project folders and Large Files scope carry over; appearance and language are set again in Settings.
+
+### Added
+- **Overview** is where cleaning starts: free space, what DeepClean can free, one **Scan Everything** button, a recommendation per module and your recent cleanups.
+- **System Status** shows how your Mac is doing right now: CPU, memory pressure and swap, free space as Finder counts it, battery health, the busiest processes, and a 30-day free-space chart.
+- **Leftovers** now finds what removed apps leave running in the background — launch agents, daemons, helpers, Open at Login items — and groups every leftover by the app it came from.
+- **Extensions** lists old drivers and plug-ins of removed apps; macOS's own drivers are never shown.
+- **Space Receipt** after every cleanup, and for any cleanup in your history: share it, save it as an image, or copy it.
+- **Settings**: Project Paths, Large Files scope and exclusions, and the cleanup log.
+- A guide to turning on Full Disk Access on first launch.
+
+### Fixed
+- Data of apps you still have — Setapp apps, apps installed outside Applications, command-line tools — and macOS's own folders are never offered as leftovers.]]></description>
+      <enclosure url="https://github.com/deeplabua/deepclean-releases/releases/download/v0.6.0/DeepClean-0.6.0.dmg" type="application/octet-stream" length="11658792" sparkle:edSignature="0SSTMqySBy8J6JDOXaRn7VMQPMYofSpSkOs03Wr2MPGjWNbF6nHCk5c6P8kitdVDQZXacFyRNOQR1VCqnIcBAg=="/>
+    </item>
+  </channel>
+</rss>
